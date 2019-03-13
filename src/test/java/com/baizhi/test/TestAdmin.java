@@ -25,6 +25,7 @@ public class TestAdmin {
         for (Admin admin : admins) {
             System.out.println(admin);
         }
+        System.out.println("ssss");
     }
     @Test
     public void test2(){
